@@ -1,0 +1,13 @@
+flutter_native_splash:
+  background_image: assets/splash.png
+
+  gravity : fit
+  android: true
+  fill : true
+  android_12:
+    image: assets/splash.png
+
+
+
+
+
