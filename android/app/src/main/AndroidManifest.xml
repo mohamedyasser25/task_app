@@ -6,7 +6,7 @@
 
 
         <application
-            android:label="fasahny"
+            android:label="magdsoft"
             android:name="${applicationName}"
             android:icon="@mipmap/ic_launcher">
 
